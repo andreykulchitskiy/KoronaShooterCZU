@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\bin\Debug\KoronaShooterCZU.exe.config
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\bin\Debug\KoronaShooterCZU.exe
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\bin\Debug\KoronaShooterCZU.pdb
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.Form1.resources
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.Properties.Resources.resources
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.exe
+C:\Users\Professional\source\repos\KoronaShooterCZU\KoronaShooterCZU\obj\Debug\KoronaShooterCZU.pdb
